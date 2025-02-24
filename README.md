@@ -26,7 +26,7 @@ The scripts in this repository allow users to:
 
     Encode files or text into audio files (.wav) or visual glitch videos (.mp4).
     Decode these audio files or videos back into the original data.
-
+(Works well with - https://github.com/TheGodRX/rtl-sdr-send-message-receive-message/tree/main )
 This functionality can be useful for data transmission over audio channels or for creative data storage solutions.
 Prerequisites
 
