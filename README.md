@@ -1,4 +1,4 @@
-Files-to-Audio-and-Back
+Files-to-Audio/Light-and-Back
 
 This repository provides a collection of Python scripts designed to encode and decode data into audio and visual formats. These tools enable the conversion of files or text into audio tones or visual glitches, and subsequently, the retrieval of the original data from these media formats.
 Table of Contents
